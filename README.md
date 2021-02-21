@@ -5,7 +5,6 @@
 <p>I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.</p>
 <p>Currently living in 🇷🇺 Saint-Petersburg, Russia.</p> 
 
-
 <h2> Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-3498db?style=flat-square&logo=css3&logoColor=white" />
@@ -23,6 +22,12 @@
   <img alt="socket.io" src="https://img.shields.io/badge/-Socket.IO-34495e?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Manjaro-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
-<br>
+
+<h2>Current Projects: </h2>
+<p> Co-Skill: <span color="#27ae60"> In progress.. </p>
+
+<h2> Socials: </h2>
+
+
 <!--
 **mikeasta/mikeasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
