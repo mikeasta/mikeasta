@@ -1,9 +1,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
 <h1> <img src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" width="40px" /> Hey, nice to see u! </h1>
 <br>
-<pre> Welcome to my GitHub page
-  I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.
-  Currently living in 🇷🇺 Saint-Petersburg, Russia.</pre>
+<pre> Welcome to my GitHub page.
+I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.
+Currently living in 🇷🇺 Saint-Petersburg, Russia.</pre>
 </br>
 </br>
 <img  width="200px" align="left" src="https://camo.githubusercontent.com/26039bc8d348cd17e2d45ed19b937bd8226971b119dc6d1be71a8888f7489fd2/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" />
