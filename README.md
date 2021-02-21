@@ -2,8 +2,8 @@
 <h1> <img src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" width="40px" /> Hey, nice to see u! </h1>
 <br>
 <pre>Welcome to my GitHub page.
-I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.
-Currently living in 🇷🇺 Saint-Petersburg, Russia.</pre>
+I'm a Full-Stack Web-Developer from 🇧🇾 <b>Brest, Belarus</b>.
+Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
 <img  width="200px" align="left" src="https://camo.githubusercontent.com/26039bc8d348cd17e2d45ed19b937bd8226971b119dc6d1be71a8888f7489fd2/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" />
@@ -36,7 +36,7 @@ Currently living in 🇷🇺 Saint-Petersburg, Russia.</pre>
 <img width="200px" align="left" src="https://i.pinimg.com/originals/fc/84/70/fc84704925f3cad5898516824bd6c7a8.gif"/>
 <h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
-  <a href="https://instagram.com/mikeasta_"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/mikeasta__"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://twitter.com/mikeastash"><img src="https://img.shields.io/badge/Twitter-3498db.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/52c431aehwsh39q8uf20rcnbo?si=6sayLLs1SciF29ERuZ_3FA"><img src="https://img.shields.io/badge/Spotify-2ecc71.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>
