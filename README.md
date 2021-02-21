@@ -26,7 +26,7 @@
 <h2> 📦 Current Projects: </h2>
 <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
 </br>
-<img width="300px" align="right" src="https://i.pinimg.com/originals/fc/84/70/fc84704925f3cad5898516824bd6c7a8.gif"/>
+<img width="300px" align="left" src="https://i.pinimg.com/originals/fc/84/70/fc84704925f3cad5898516824bd6c7a8.gif"/>
 <h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
   <a href="https://instagram.com/mikeasta_"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
