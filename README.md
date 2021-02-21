@@ -26,9 +26,11 @@
 <h2> 📦 Current Projects: </h2>
 <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
 
-<img align="left" src="https://blog.storyblocks.com/wp-content/uploads/2017/05/Animated-Envelope-Large.gif"/>
+<img align="right" src="https://i.pinimg.com/originals/fc/84/70/fc84704925f3cad5898516824bd6c7a8.gif"/>
 <h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
+  <a href="https://instagram.com/mikeasta_"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 
