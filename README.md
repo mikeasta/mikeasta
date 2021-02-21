@@ -24,7 +24,7 @@
 </p>
 
 <h2>Current Projects: </h2>
-<p> <b> Co-Skill </b>: <span color="#27ae60"> In progress.. </span></p>
+<p> <b> Co-Skill </b>: <span color="27ae60"> In progress.. </span></p>
 
 <h2> Socials: </h2>
 
