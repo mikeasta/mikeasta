@@ -23,7 +23,7 @@
   <img alt="linux" src="https://img.shields.io/badge/-Manjaro-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
 </br>
-<img align="right" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+<img align="right" width="200px" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 <h2> 📦 Current Projects: </h2>
 <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
 </br>
