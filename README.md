@@ -38,7 +38,7 @@
 <p style="display: flex;">
   <a href="https://instagram.com/mikeasta_"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
-  <a href="https://twitter.com/mishanyaasta"><img src="https://img.shields.io/badge/Twitter-3498db.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/mikeastash"><img src="https://img.shields.io/badge/Twitter-3498db.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 <!--
