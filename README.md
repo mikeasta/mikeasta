@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
-<h1> <img src="https://media1.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif" width="50px" /> Hey, nice to see u! </h1>
+<h1> <img src="https://media1.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif" width="100px" /> Hey, nice to see u! </h1>
 <br>
 <p>Welcome to my GitHub page.</p>
 <p>I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.</p>
