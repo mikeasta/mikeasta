@@ -9,7 +9,7 @@
 <img  width="200px" align="left" src="https://camo.githubusercontent.com/26039bc8d348cd17e2d45ed19b937bd8226971b119dc6d1be71a8888f7489fd2/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" />
 <h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
-  <img alt="C++" src="https://img.shields.io/badge/-C++-2980b9?style=flat-square&logo=c++&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-2980b9?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-3498db?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
