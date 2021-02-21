@@ -40,6 +40,7 @@ Currently living in 🇷🇺 Saint-Petersburg, Russia.</pre>
   <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://twitter.com/mikeastash"><img src="https://img.shields.io/badge/Twitter-3498db.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/52c431aehwsh39q8uf20rcnbo?si=6sayLLs1SciF29ERuZ_3FA"><img src="https://img.shields.io/badge/Spotify-2ecc71.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://www.pinterest.com/naitrise/"><img src="https://img.shields.io/badge/Pinterest-e74c3c.svg?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 </p>
 
 <!--
