@@ -27,7 +27,10 @@
 <p> <b> Co-Skill </b>: <span color="green"> In progress.. </span></p>
 
 <h2> Socials: </h2>
-
+<p style="display: flex;">
+  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-E4405F.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
+</p>
 
 <!--
 **mikeasta/mikeasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
