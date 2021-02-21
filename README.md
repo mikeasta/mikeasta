@@ -7,7 +7,6 @@
 
 
 <h2> Favourite technologies and tools: </h2>
-<br>
 <p style="display: flex;"> 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-3498db?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
