@@ -22,10 +22,10 @@
   <img alt="socket.io" src="https://img.shields.io/badge/-Socket.IO-34495e?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Manjaro-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
-
+</br>
 <h2> 📦 Current Projects: </h2>
 <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
-
+</br>
 <img width="300px" align="right" src="https://i.pinimg.com/originals/fc/84/70/fc84704925f3cad5898516824bd6c7a8.gif"/>
 <h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
