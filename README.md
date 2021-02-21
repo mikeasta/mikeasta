@@ -20,8 +20,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express.JS" src="https://img.shields.io/badge/-ExpressJS-27ae60?style=flat-square&logo=express&logoColor=white" />
-  <img alt="socket.io" src="https://img.shields.io/badge/-Socket.IO-2c3e50?style=flat-square&logo=socket.io&logoColor=white" />
-  <img alt="linux" src="https://img.shields.io/badge/-Linux-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
+  <img alt="socket.io" src="https://img.shields.io/badge/-Socket.IO-34495e?style=flat-square&logo=socket.io&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/-Manjaro-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
 <!--
 **mikeasta/mikeasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
