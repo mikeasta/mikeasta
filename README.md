@@ -5,7 +5,7 @@
 <p>I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.</p>
 <p>Currently living in 🇷🇺 Saint-Petersburg, Russia.</p> 
 
-<h2> Favourite technologies and tools: </h2>
+<h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-3498db?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -26,9 +26,8 @@
 <h2> 📦 Current Projects: </h2>
 <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
 
-<h2> Socials: </h2>
+<h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 
