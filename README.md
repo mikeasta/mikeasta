@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
-<h1> :sunglasses: Mate, nice to see u! :sunglasses: </h1>
+<h1> :sunglasses: Mate, nice to see u! </h1>
 <br>
 <p>Welcome to my GitHub page.</p>
 <p>I'm a Full-Stack Web-Developer from 🇧🇾 Brest, Belarus.</p>
@@ -23,13 +23,13 @@
   <img alt="linux" src="https://img.shields.io/badge/-Manjaro-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
 
-<h2>Current Projects: </h2>
-<p> <b> Co-Skill </b>: <span color="green"> In progress.. </span></p>
+<h2> 📦 Current Projects: </h2>
+<p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
 
 <h2> Socials: </h2>
 <p style="display: flex;">
   <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-E4405F.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
+  <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 
 <!--
