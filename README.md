@@ -23,5 +23,6 @@
   <img alt="socket.io" src="https://img.shields.io/badge/-Socket.IO-34495e?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Manjaro-2c3e50?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
+<br>
 <!--
 **mikeasta/mikeasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
