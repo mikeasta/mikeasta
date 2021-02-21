@@ -10,6 +10,7 @@
 <h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-3498db?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="VSC" src="https://img.shields.io/badge/-Visual-Studio-Code-45b8d8?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
