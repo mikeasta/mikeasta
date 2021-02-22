@@ -31,7 +31,9 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 <img align="right" width="200px" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 <h2> 📦 Current Projects: </h2>
-<p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p>
+<ul> 
+  <li> <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p> </li>
+</ul>
 </br>
 </br>
 <img width="200px" align="left" src="https://i.pinimg.com/originals/fc/84/70/fc84704925f3cad5898516824bd6c7a8.gif"/>
