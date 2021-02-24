@@ -34,7 +34,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 <img align="right" width="150px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 <h2> 📦 Current Projects: </h2>
 <ul> 
-  <li> <p> <b> Co-Skill </b>: <span color="green"> In progress... </span></p> </li>
+  <li> <p> <b> [UNANNOUNCED] </b>: <p> Release 0.0.1 in March </p></p> </li>
 </ul>
 </br>
 </br>
