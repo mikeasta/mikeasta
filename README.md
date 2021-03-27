@@ -21,6 +21,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/-Postman-E34F26?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/-Python-F1C40F?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Express.JS" src="https://img.shields.io/badge/-ExpressJS-27ae60?style=flat-square&logo=express&logoColor=white" />
