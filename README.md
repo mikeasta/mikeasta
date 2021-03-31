@@ -32,7 +32,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
 </br>
-<img align="right" width="150px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUNXNz6V68zJ1C%2Fgiphy.gif&f=1&nofb=1"/>
+<img align="right" width="200px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUNXNz6V68zJ1C%2Fgiphy.gif&f=1&nofb=1"/>
 <h2> 📦 Current Projects: </h2>
 <ul> 
   <li> <p> <b> [UNANNOUNCED] </b>: <span> stopped since studying (Release in spring or summer) </span></p> </li>
