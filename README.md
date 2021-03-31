@@ -1,5 +1,5 @@
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FSvGFA2WF9IP0WjmzvE%2Fgiphy.gif&f=1&nofb=1" width="200px"/>
-<h1> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F492e10f3770617ee7b9eb9e9f3bc6412%2Ftenor.gif%3Fitemid%3D14596700&f=1&nofb=1" width="40px" /> Hey, nice to see u! </h1>
+<h1 text-align="center"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F492e10f3770617ee7b9eb9e9f3bc6412%2Ftenor.gif%3Fitemid%3D14596700&f=1&nofb=1" width="40px" /> Hey, nice to see u! </h1>
 <br>
 <pre>Welcome to my GitHub page.
 I'm Full-Stack Web Developer from 🇧🇾 <b>Brest, Belarus</b>.
