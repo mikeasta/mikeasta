@@ -1,4 +1,4 @@
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FSvGFA2WF9IP0WjmzvE%2Fgiphy.gif&f=1&nofb=1" width="100px"/>
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FSvGFA2WF9IP0WjmzvE%2Fgiphy.gif&f=1&nofb=1" width="200px"/>
 <h1> <img src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" width="40px" /> Hey, nice to see u! </h1>
 <br>
 <pre>Welcome to my GitHub page.
