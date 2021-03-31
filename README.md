@@ -6,7 +6,7 @@ I'm Full-Stack Web Developer from 🇧🇾 <b>Brest, Belarus</b>.
 Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
-<img  width="200px" align="left" src="https://camo.githubusercontent.com/26039bc8d348cd17e2d45ed19b937bd8226971b119dc6d1be71a8888f7489fd2/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" />
+<img  width="200px" align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F31.media.tumblr.com%2F89525c4f3e4edc58433cb6dfc8ef9e28%2Ftumblr_ntv57vzUMO1uz69m2o1_500.gif&f=1&nofb=1" />
 <h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
   <img alt="C++" src="https://img.shields.io/badge/-C++-2980b9?style=flat-square&logo=c&logoColor=white" />
