@@ -40,7 +40,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
 </br>
-<img width="150px" align="left" src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif"/>
+<img width="150px" align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F64d47299b3bbcf75f7a6b84e54a778b5%2Ftenor.gif%3Fitemid%3D12582727&f=1&nofb=1"/>
 <h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
   <a href="https://instagram.com/mikeasta__"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
