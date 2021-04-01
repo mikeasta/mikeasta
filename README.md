@@ -35,7 +35,8 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 <img align="right" width="200px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FUNXNz6V68zJ1C%2Fgiphy.gif&f=1&nofb=1"/>
 <h2> 📦 Current Projects: </h2>
 <ul> 
-  <li> <p> <b> [UNANNOUNCED] </b>: <span> release in May </span></p> </li>
+  <li> <p> <b> Akita.AI </b>: <span> release in May </span></p> </li>
+  <li> <p> <b> Co-Skill </b>: <span> freezed for a while </span></p> </li>
 </ul>
 </br>
 </br>
