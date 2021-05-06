@@ -1,5 +1,5 @@
 <img align="right" src="https://media1.tenor.com/images/f5cd33863e8319ea72990eefc8e697a8/tenor.gif?itemid=5417197" width="300px"/>
-<h1 align="center"> <img src="https://cdn2.scratch.mit.edu/get_image/gallery/5280006_170x100.png" width="40px" /> Hey, nice to see u! </h1>
+<h1 align="center"> <img src="https://cdn2.scratch.mit.edu/get_image/gallery/5280006_170x100.png" width="30px" /> Hey, nice to see u! </h1>
 <br>
 <pre>Welcome to my GitHub page.
 I'm Full-Stack Web Developer from 🇧🇾 <b>Brest, Belarus</b>.
