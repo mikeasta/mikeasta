@@ -1,4 +1,4 @@
-<img align="right" src="https://media1.tenor.com/images/f5cd33863e8319ea72990eefc8e697a8/tenor.gif?itemid=5417197" width="300px"/>
+<img align="right" src="https://media1.tenor.com/images/f5cd33863e8319ea72990eefc8e697a8/tenor.gif?itemid=5417197" width="250px"/>
 <h1 align="center"> <img src="https://cdn2.scratch.mit.edu/get_image/gallery/5280006_170x100.png" width="30px" /> Hey, nice to see u! </h1>
 <br>
 <pre>Welcome to my GitHub page.
@@ -6,7 +6,7 @@ I'm Full-Stack Web Developer from 🇧🇾 <b>Brest, Belarus</b>.
 Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
-<img  width="200px" align="left" src="https://media3.giphy.com/media/TcG7Tw3uq6tJS/200.gif" />
+<img  width="250px" align="left" src="https://media3.giphy.com/media/TcG7Tw3uq6tJS/200.gif" />
 <h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
   <img alt="C++" src="https://img.shields.io/badge/-C++-2980b9?style=flat-square&logo=c&logoColor=white" />
