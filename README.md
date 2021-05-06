@@ -1,4 +1,4 @@
-<img align="right" src="https://media1.tenor.com/images/f5cd33863e8319ea72990eefc8e697a8/tenor.gif?itemid=5417197" width="400px"/>
+<img align="right" src="https://media1.tenor.com/images/f5cd33863e8319ea72990eefc8e697a8/tenor.gif?itemid=5417197" width="300px"/>
 <h1 align="center"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2Fg04poZxA1nAyTs9DQY%2Fsource.gif&f=1&nofb=1" width="40px" /> Hey, nice to see u! </h1>
 <br>
 <pre>Welcome to my GitHub page.
