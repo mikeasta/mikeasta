@@ -8,6 +8,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
 </br>
+</br>
 <img  width="250px" align="left" src="https://media3.giphy.com/media/TcG7Tw3uq6tJS/200.gif" />
 <h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
@@ -41,6 +42,8 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
   <li> <p> <b> Akita.AI </b>: <span> release in May </span></p> </li>
   <li> <p> <b> Co-Skill </b>: <span> freezed for a while </span></p> </li>
 </ul>
+</br>
+</br>
 </br>
 </br>
 </br>
