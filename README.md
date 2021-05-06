@@ -33,7 +33,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
 </br>
-<img align="right" width="300px" src="https://i.imgur.com/fbmwaxp.gif"/>
+<img align="right" width="250px" src="https://i.imgur.com/fbmwaxp.gif"/>
 <h2> 📦 Current Projects: </h2>
 <ul> 
   <li> <p> <b> Akita.AI </b>: <span> release in May </span></p> </li>
