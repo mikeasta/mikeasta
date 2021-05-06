@@ -6,6 +6,8 @@ I'm Full-Stack Web Developer from 🇧🇾 <b>Brest, Belarus</b>.
 Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
+</br>
+</br>
 <img  width="250px" align="left" src="https://media3.giphy.com/media/TcG7Tw3uq6tJS/200.gif" />
 <h2> :wrench: Favourite technologies and tools: </h2>
 <p style="display: flex;"> 
@@ -48,7 +50,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
   <a href="https://instagram.com/mikeasta__"><img src="https://img.shields.io/badge/Instagram-e84393.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://vk.com/mikeasta"><img src="https://img.shields.io/badge/VK-2980b9.svg?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://twitter.com/mikeastash"><img src="https://img.shields.io/badge/Twitter-3498db.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/52c431aehwsh39q8uf20rcnbo?si=6sayLLs1SciF29ERuZ_3FA"><img src="https://img.shields.io/badge/Spotify-2ecc71.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<!--   <a href="https://open.spotify.com/user/52c431aehwsh39q8uf20rcnbo?si=6sayLLs1SciF29ERuZ_3FA"><img src="https://img.shields.io/badge/Spotify-2ecc71.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a> -->
   <a href="https://www.codewars.com/users/MikhailAstashonak"><img src="https://img.shields.io/badge/CodeWars-e74c3c.svg?style=for-the-badge&logo=codewars&logoColor=white"/</a>
     <a href="https://lichess.org/@/mikeasta"><img src="https://img.shields.io/badge/Lichess-2c3e50.svg?style=for-the-badge&logo=lichess&logoColor=white"/</a>
     
