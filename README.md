@@ -39,7 +39,7 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 <img align="right" width="250px" src="https://i.imgur.com/fbmwaxp.gif"/>
 <h2> 📦 Current Projects: </h2>
 <ul> 
-  <li> <p> <b> Akita.AI </b>: <span> release in May </span></p> </li>
+  <li> <p> <b> Akita.AI </b>: <span> Released </span></p> </li>
   <li> <p> <b> Co-Skill </b>: <span> freezed for a while </span></p> </li>
 </ul>
 </br>
