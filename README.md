@@ -7,8 +7,6 @@ Currently living in 🇷🇺 <b>Saint-Petersburg, Russia</b>.</pre>
 </br>
 </br>
 </br>
-</br>
-</br>
 <img width="250px" align="left" src="https://media2.giphy.com/media/Zqy8kRlwfwFnq/giphy.gif"/>
 <h2>:speech_balloon: Socials: </h2>
 <p style="display: flex;">
